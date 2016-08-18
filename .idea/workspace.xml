@@ -34,8 +34,8 @@
       <file leaf-file-name="AlphaNumericChooserTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/tests/us/bojie/AlphaNumericChooserTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="10" column="36" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="36" />
+            <state relative-caret-position="233">
+              <caret line="33" column="65" selection-start-line="33" selection-start-column="56" selection-end-line="33" selection-end-column="65" />
               <folding />
             </state>
           </provider>
@@ -78,7 +78,14 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-8">
               <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-              <folding />
+              <folding>
+                <element signature="e#359#360#0" expanded="false" />
+                <element signature="e#386#387#0" expanded="false" />
+                <element signature="e#424#425#0" expanded="false" />
+                <element signature="e#461#462#0" expanded="false" />
+                <element signature="e#496#497#0" expanded="false" />
+                <element signature="e#530#531#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -593,15 +600,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="All_in_Junit - 2016.08.15 at 12h 13m 41s.xml">
-      <configuration name="All in Junit" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="All_in_Junit - 2016.08.15 at 12h 15m 14s.xml">
-      <configuration name="All in Junit" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="All_in_Junit - 2016.08.15 at 12h 16m 04s.xml">
-      <configuration name="All in Junit" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="All_in_Junit - 2016.08.15 at 12h 23m 11s.xml">
       <configuration name="All in Junit" configurationId="JUnit" />
     </history-entry>
@@ -621,6 +619,15 @@
       <configuration name="All in Junit" configurationId="JUnit" />
     </history-entry>
     <history-entry file="All_in_Junit - 2016.08.16 at 14h 27m 51s.xml">
+      <configuration name="All in Junit" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_Junit - 2016.08.18 at 11h 00m 36s.xml">
+      <configuration name="All in Junit" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_Junit - 2016.08.18 at 11h 01m 35s.xml">
+      <configuration name="All in Junit" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_Junit - 2016.08.18 at 11h 06m 02s.xml">
       <configuration name="All in Junit" configurationId="JUnit" />
     </history-entry>
   </component>
@@ -696,7 +703,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-8">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
+          <folding>
+            <element signature="e#359#360#0" expanded="false" />
+            <element signature="e#386#387#0" expanded="false" />
+            <element signature="e#424#425#0" expanded="false" />
+            <element signature="e#461#462#0" expanded="false" />
+            <element signature="e#496#497#0" expanded="false" />
+            <element signature="e#530#531#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -776,8 +790,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/tests/us/bojie/AlphaNumericChooserTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="10" column="36" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="36" />
+        <state relative-caret-position="233">
+          <caret line="33" column="65" selection-start-line="33" selection-start-column="56" selection-end-line="33" selection-end-column="65" />
           <folding />
         </state>
       </provider>
